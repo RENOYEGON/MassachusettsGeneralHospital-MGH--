@@ -45,6 +45,9 @@ This report analyzes MGH's performance from 2011 to 2022, and answers the follow
 2.How long are patients staying in the hospital, on average?  
 3.How much is the average cost per visit?   
 4.How many procedures are covered by insurance?   
+
+![Alt text](/images/mgh dashboard.png)
+
 ### Insights Deep-Dive
 
 #### 1. Patient Admissions & Readmissions
