@@ -55,7 +55,7 @@ This report analyzes MGH's performance from 2011 to 2022, and answers the follow
 ### Insights Deep-Dive
 
 #### 1. Patient Admissions & Readmissions
-Total Admissions: 11353  
+Total Admissions: 1135   
 Total Readmissions: 290
 Unique Admission: 153 peaking in 2014 and 2020  
 The readmission was 4.07 % within 30 days    
