@@ -46,6 +46,10 @@ This report analyzes MGH's performance from 2011 to 2022, and answers the follow
 3.How much is the average cost per visit?   
 4.How many procedures are covered by insurance?   
 
+## 📊 My Tableau Dashboard
+
+Check out my interactive Tableau dashboard here:  
+[🔗 View Dashboard]([https://public.tableau.com/views/YourDashboardName](https://public.tableau.com/views/MassachusettsGeneralHospitalMGH/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 ![Alt text](images/mgh.dashboard.png)
