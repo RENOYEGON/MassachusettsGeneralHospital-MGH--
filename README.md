@@ -58,7 +58,6 @@ Check out my interactive Tableau dashboard here:
 ![Alt text](images/mgh.dashboard.png)
 
 
-
 ### Insights Deep-Dive
 
 #### 1. Patient Admissions & Readmissions
