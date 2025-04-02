@@ -1,7 +1,7 @@
 ### Project Background
-The Massachusetts General Hospital (MGH) executive team requested a high-level KPI report to assess the hospital's performance across key areas such as admissions, readmissions, length of stay, costs, and insurance coverage. The report is based on synthetic patient data from 2011 to 2022, encompassing nearly 1,000 patients and 27,891 encounters. The goal is to provide actionable insights to improve operational efficiency, patient outcomes, and financial performance.
+The Massachusetts General Hospital (MGH) executive team requested a high-level KPI report to assess the hospital's performance across key areas such as admissions, readmissions, length of stay, costs, and insurance coverage. The report is based on  patient data from 2011 to 2022, encompassing nearly 1,000 patients and 27,891 encounters. The goal is to provide actionable insights to improve operational efficiency, patient outcomes, and financial performance.
 #### Dataset:
-The dataset consists of synthetic records of nearly 1,000 MGH patients, capturing patient demographics, insurance coverage, medical encounters, and procedures. Each encounter record includes details such as start and end date, total cost, encounter type, and insurance coverage
+The dataset consists of  records of nearly 1,000 MGH patients, capturing patient demographics, insurance coverage, medical encounters, and procedures. Each encounter record includes details such as start and end date, total cost, encounter type, and insurance coverage
 #### Data Preparation & Exploration
 ##### Goal: Prepare the data for an effective data model for analysis.  
 To facilitate accurate analysis, the following steps were performed:
@@ -120,9 +120,8 @@ These are some questions I would've loved to ask stakeholders/project leads to l
 -	Should readmissions be related to the same medical conditions or reasons as the initial admission?
 -	How are encounter entries recorded? Given that some admissions are logged exactly 24 hours apart, how should these be treated? Are these entries reset daily, or should they be considered continuous admissions?
 ### Assumptions and Caveats
-1.	Data Limitations: The dataset is synthetic and may not fully reflect real-world scenarios.
-2.	Timeframe: The analysis covers 2011-2022, and trends may not be applicable to future years.
-3.	External Factors: External influences like policy changes or the COVID-19 pandemic may impact the data.
-4.	Insurance Coverage: Coverage rates are based on procedure costs and may not reflect overall encounter costs.
+1.	Timeframe: The analysis covers 2011-2022, and trends may not be applicable to future years.
+2.	External Factors: External influences like policy changes or the COVID-19 pandemic may impact the data.
+3.	Insurance Coverage: Coverage rates are based on procedure costs and may not reflect overall encounter costs.
 
 
