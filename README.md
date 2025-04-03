@@ -83,18 +83,18 @@ The hospital maintaining improved operational practices is a way of capitalizing
 #### 3. Cost Analysis
 -	Average Cost per Visit: $3.6K
 - Admission average cost per visit was $7.7K doubling non-admission with $3.5K, 2020 had $14K
-- Admission cost surged 4.8K during 2020 with those non-insured admission average cost at 9.1K,middle age adults topping with 12.98K
-- Elderly are most insured with average cost 10.2K
+- Admission cost surged $4.8K during 2020 with those non-insured admission average cost at $9.1K,middle age adults topping with $12.98K
+- Elderly are most insured with average cost $10.2K
 -	Total Patient Costs (2011-2022): $101.5K
 #####	Implications:
 -	High inpatient costs may strain hospital resources.
 -	Explore cost-saving measures, such as reducing unnecessary tests or optimizing supply chain management.
 #### 4. Insurance Coverage
--	Total Procedures Covered by Insurance: 14.7K with 5.8K uninsured
+-	Procedure's Total Cost Covered by Insurance: $14.7K with $5.8K uninsured
 - 60% of procedures covered by insurance while 40% are uninsured with Medicare covering 33% of the insurance
-- Average cost of procedure is 4.3k  ,uninsured patients avaraging 5.6K ,5.0K being 17 to 64 Age Group
-- Uninsured admissions averaged 9K while Uninsured non admissions averaged 5K
-- Insured admissions averaged 7K while non admission Insured average 3K
+- Average cost of procedure is $4.3k  ,uninsured patients avaraging $5.6K ,$5.0K being 17 to 64 Age Group
+- Uninsured admissions averaged $9K while Uninsured non admissions averaged $5K
+- Insured admissions averaged $7K while non admission Insured average $3K
 #####	Implications:
 -	Uninsured patients face significant financial burdens, potentially impacting access to care.
 -	Collaborate with insurers to improve coverage and explore financial assistance programs for uninsured patients.
