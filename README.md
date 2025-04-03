@@ -125,5 +125,7 @@ These are some questions I would've loved to ask stakeholders/project leads to l
 1.	Timeframe: The analysis covers 2011-2022, and trends may not be applicable to future years.
 2.	External Factors: External influences like policy changes or the COVID-19 pandemic may impact the data.
 3.	Insurance Coverage: Coverage rates are based on procedure costs and may not reflect overall encounter costs.
+4.	The readmission rates are based on a 30-day interval for returning patients.
+5.	Drop in readmission rate on 2020 onwards was assumed to be caused by the pandemic.
 
 
