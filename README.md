@@ -49,10 +49,10 @@ This report analyzes MGH's performance from 2011 to 2022, and answers the follow
 ## 📊 My Tableau Dashboard
 
 Check out my interactive Tableau dashboard here:  
-[🔗 View Dashboard](https://public.tableau.com/views/MassachusettsGeneralHospitalMGH/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[🔗 View Dashboard](https://public.tableau.com/views/MassachusettsGeneralHospitalMGHKPIReport/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-![Alt text](images/mgh.dashboard.png)
+![Alt text](images/Tableau.dashboard.png)
 
 ### Insights Deep-Dive
 
